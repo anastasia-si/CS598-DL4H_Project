@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Data
+mimic-iii-clinical-database-1.4/
+cs598 dl4h/data
+
+# Log
+cs598 dl4h/logdir
+
 # Distribution / packaging
 .Python
 build/
