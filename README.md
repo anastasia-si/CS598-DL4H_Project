@@ -6,9 +6,10 @@ The objective of this reproducibility project is to replicate and verify the res
 by _Sebastiano Barbieri, James Kemp, Oscar Perez-Concha, Sradha Kotwal, Martin Gallagher, Angus Ritchie, Louisa Jorm_
 (_Nature Scientific Reports_).
 
+The original paper’s repository: https://github.com/sebbarb/time_aware_attention
 
 To reproduce the results of the paper’s experiments, we re-used 
-3 neural network architectures provided by the authors (https://github.com/sebbarb/time_aware_attention) to predict readmission to the ICU. 
+3 neural network architectures provided by the authors to predict readmission to the ICU. 
 We also added two ablations without timestamped embeddings to examine their impact on the model performance.
 
 ## Data descriptions
