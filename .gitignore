@@ -8,10 +8,10 @@ __pycache__/
 
 # Data
 mimic-iii-clinical-database-1.4/
-cs598 dl4h/data
+data
 
 # Log
-cs598 dl4h/logdir
+logdir
 
 # Distribution / packaging
 .Python

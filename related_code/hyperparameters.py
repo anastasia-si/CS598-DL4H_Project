@@ -7,7 +7,7 @@ import math
 class Hyperparameters:
   '''Hyperparameters'''
   # data
-  mimic_dir = '../../mimic-iii-clinical-database-1.4/mimic-iii-clinical-database-1.4/unzipped/'  #MIMIC-III Clinical Database/uncompressed/'
+  mimic_dir = '../mimic-iii-clinical-database-1.4/mimic-iii-clinical-database-1.4/unzipped/'  #MIMIC-III Clinical Database/uncompressed/'
 
   data_dir = '../data/'
   logdir = '../logdir/'  # log directory
