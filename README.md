@@ -20,6 +20,21 @@ https://physionet.org/content/mimiciii/1.4
 
 ## Instructions
 
+### Directory Structure 
+
+The code requires the following directory structure
+```
+.
+├── CS598-CL4H_Project              # Repo Root Folder
+|   |── data                        # Preprocessed files land here. Also copy embeddings here.
+|   |── logdir                      # Trained models land here.
+|   |── related_code                # Code for everything: pre-processing, training, 
+|   |   |── embeddings              # Medical code embeddings
+|   |── trained_models              # Pre-Trained Models
+├── MIMIC-III Clinical Database     # Dataset Root Folder
+|   ├── uncompressed                # Folder holding the Uncompressed version of the dataset's CSV files
+```
+
 ### Dependencies
 Use the command below to install the packages according to the configuration file
 ```
