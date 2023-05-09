@@ -8,6 +8,8 @@ by _Sebastiano Barbieri, James Kemp, Oscar Perez-Concha, Sradha Kotwal, Martin G
 
 The original paper’s repository: https://github.com/sebbarb/time_aware_attention
 
+A link to our Google Colaboratory Notebook to produce results and summary statistics: https://colab.research.google.com/drive/1rSFNprehNZw25PnocCsuv4Rwdf6PCu_n 
+
 To reproduce the results of the paper’s experiments, we re-used 
 3 neural network architectures provided by the authors to predict readmission to the ICU. 
 We also added two ablations without timestamped embeddings to examine their impact on the model performance.
